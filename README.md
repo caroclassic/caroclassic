@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+🔭 I’m currently working on improving my techinal skillset to advance my career
+🌱 I’m currently learning Linux and Bash
+
 <!--
 **caroclassic/caroclassic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
