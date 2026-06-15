@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚡ I'm currently working as an Azure clould administrator. 
+⚡ I'm currently working as an Azure clould administrator.<br /> 
 🔭 I’m currently working on improving my technical skillset to advance my career<br />
 🌱 I’m currently learning Linux and Bash
 
